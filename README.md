@@ -32,4 +32,10 @@ GET https://tools.togethercfo.com/proxy/fetch?url=https://example.com
 Clone the project
 mkdir cors-proxy && cd cors-proxy
 npm init -y
-npm install express cors node-fetch```
+npm install express cors node-fetch
+node app.mjs
+```
+
+
+
+
